@@ -1,0 +1,72 @@
+body {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-fixed-top {
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.nav-pills, .nav-link {
+    color: black;
+}
+
+.nav-pills:hover, .nav-link:hover {
+    color: darkgray;
+}
+
+.profile {
+    width: 200px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container {
+    max-width: 80%;
+}
+
+
+
+.fa {
+    padding: 5px;
+    color: black;
+    font-size: 20px;
+}
+
+.media {
+    margin: 0 auto;
+}
+
+.portfolio-img {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6%;
+}
+
+h3.my-3 {
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+
+.my-button {
+    background-color:grey;
+    border: none;
+}
+
+.my-button:hover {
+    background-color:lightgray;
+}
+
+.bio {
+    margin-top: 5px;
+}
