@@ -70,3 +70,7 @@ h3.my-3 {
 .bio {
     margin-top: 5px;
 }
+
+.form-group {
+    padding: 0px;
+}
